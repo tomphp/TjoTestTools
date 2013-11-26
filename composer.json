@@ -1,0 +1,13 @@
+{
+    "name": "tomphp/tjo-test-tools",
+    "description": "Some utility classes for tests",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-0": {
+            "TjoTestTools\\": "src"
+        }
+    }
+}
+
